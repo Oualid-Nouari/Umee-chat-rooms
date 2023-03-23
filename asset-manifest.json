@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Umee-chat-rooms/static/css/main.3439f779.css",
+    "main.js": "/Umee-chat-rooms/static/js/main.adfae432.js",
+    "static/media/user.png": "/Umee-chat-rooms/static/media/user.4386e740f733f6d86d80.png",
+    "static/media/UmeeLogo.png": "/Umee-chat-rooms/static/media/UmeeLogo.4d06a18627664bf968d6.png",
+    "index.html": "/Umee-chat-rooms/index.html",
+    "main.3439f779.css.map": "/Umee-chat-rooms/static/css/main.3439f779.css.map",
+    "main.adfae432.js.map": "/Umee-chat-rooms/static/js/main.adfae432.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3439f779.css",
+    "static/js/main.adfae432.js"
+  ]
+}
